@@ -3,5 +3,5 @@
 > Status do projeto: Terminado
 
 ```
-Projeto feito no p5.js
+Projeto feito no p5.js para rodar
 ```
