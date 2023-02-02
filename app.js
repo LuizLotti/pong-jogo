@@ -1,4 +1,4 @@
-console.log ("Rodando o pong")
+
 
 //variaveis da bolinha
 let xBolinha = 300;
